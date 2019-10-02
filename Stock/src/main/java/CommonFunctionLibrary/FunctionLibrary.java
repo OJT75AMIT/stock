@@ -195,6 +195,11 @@ public class FunctionLibrary
 			SimpleDateFormat sdf = new SimpleDateFormat("YYYY_MM_dd_ss");
 			return sdf.format(date);
 		}
+		//sample code
+		public void print()
+		{
+			
+		}
 	}
 	
 
